@@ -36,6 +36,11 @@
 ## References
 
 ### Data Source
+- Data Source Title and URL
 ### Code Source
-### Literature 
+- Code Source Title and URL
+### Articles
+- Article Source Title and URL
+### Literature
+- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
