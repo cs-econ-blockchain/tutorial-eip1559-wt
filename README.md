@@ -26,6 +26,7 @@
 - ...
 
 ## Spotlight
+- Figures
 - Posters
 - Slides
 - Presentations
