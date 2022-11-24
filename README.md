@@ -44,3 +44,18 @@
 ### Literature
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
+Levin, Dan, and Luyao Zhang. "Bridging level-k to nash equilibrium." *Review of Economics and Statistics* 104, no. 6 (2022): 1329-1340.
+
+```
+@article{levin2022bridging,
+  title={Bridging level-k to nash equilibrium},
+  author={Levin, Dan and Zhang, Luyao},
+  journal={Review of Economics and Statistics},
+  volume={104},
+  number={6},
+  pages={1329--1340},
+  year={2022},
+  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+}
+```
+
