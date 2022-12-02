@@ -6,12 +6,12 @@
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
 - **Project Summary**: 
- - [Summarize the Background/Motivation]
- - [Research Questions]
- - [Application Scenario (Data Source)]
- - [Methodology]
- - [Results]
- - [Intellectual Merits and Practical impacts of your project.]
+  - [Summarize the Background/Motivation]
+  - [Research Questions]
+  - [Application Scenario (Data Source)]
+  - [Methodology]
+  - [Results]
+  - [Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
 - data
