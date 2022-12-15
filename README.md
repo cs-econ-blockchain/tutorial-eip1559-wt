@@ -21,11 +21,11 @@ In this article, we provide a tutorial for replicating the waiting time results 
 ## Data
 <div class="table-wrapper" markdown="block">
 
-|                    |                                                    **Cryptocurrency Data**                                                   |
-|--------------------|:----------------------------------------------------------------------------------------------------------------------------:|
-| **Data Source**    |                       [Alpha Vantage API](https://www.alphavantage.co/documentation/#digital-currency)                       |
-| **Queried Data**   |   [Aave_Queried](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/data/Queried_Data)   |
-| **Processed Data** | [Aave_Processed](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/tree/main/data/Processed_Data) |
+|                    |**Mempool Data**|**Blockchain Data**|
+|--------------------|:--------------------:|:--------------------:|
+| **Data Source**    |[Kaggle - Mempool Data (With Filtered Version)](https://www.kaggle.com/datasets/sunshineluyaozhang/eip1559-waiting-time)|[Kaggle - Ethereum Blockchain](https://www.kaggle.com/datasets/bigquery/ethereum-blockchain)|
+| **Queried Data**   |[]()|[]()|
+| **Processed Data** |[]()|[]()|
 
 </div>
 
