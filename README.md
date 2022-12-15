@@ -31,10 +31,9 @@ In this article, we provide a tutorial for replicating the waiting time results 
 
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+- [Query Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_query_colab.ipynb)
+- [Process Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_process_colab.ipynb)
+- [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
 
 ## Spotlight
 - Figures
