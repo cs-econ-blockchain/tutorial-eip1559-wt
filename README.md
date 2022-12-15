@@ -1,9 +1,7 @@
 # Tutorial for “Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security”
 ## Project information
 - **Author**: Tianyu Wu, Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
-- **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: TBD
-- **Acknowledgments**: I would like to express my greatest gratitude to Prof Luyao Zhang, the Principal Investigator (PI) of the project “Understanding Waiting Time in Transaction Fee Mechanisms”, and Prof Fan Zhang, the Co-PI for their generous and inspiring instructions.
+- **Acknowledgments**: I would like to express my greatest gratitude to Prof. Luyao Zhang and Prof. Fan Zhang for guidance during my summer experiential learning activities in their project entitled “Understand Waiting Time in Transaction Fee Mechanisms,” supported by Ethereum Foundation. 
 
 - **Project Summary**: 
 
