@@ -29,11 +29,6 @@ In this article, we provide a tutorial for replicating the waiting time results 
 
 </div>
 
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
-
 
 ## Code
 - Query Data
