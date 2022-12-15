@@ -66,6 +66,7 @@ Figure 6: Median Waiting Time for Each Block (Pre-EIP and Post-EIP), Derived by 
 
 Figure 7: Median Waiting Time for Each Block (Pre-EIP and Post-EIP with an extended period), Derived by Transaction Data until 10/27/2021 [[Analyze Data]](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
 
+### Extension
 <img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig8.png" width="800">
 
 Figure 8: Difference between legacy transaction and EIP-1559 transaction after London hardfork [[Whimsical]](https://whimsical.com/legacy-and-eip-8yeixQBNpUtrRYy5NmbH7L)
