@@ -2,9 +2,9 @@
 ## Project information
 - **Author**: Tianyu Wu, Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Disclaimer**: TBD
+- **Acknowledgments**: I would like to express my greatest gratitude to Prof Luyao Zhang, the Principal Investigator (PI) of the project “Understanding Waiting Time in Transaction Fee Mechanisms”, and Prof Fan Zhang, the Co-PI for their generous and inspiring instructions.
+
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
