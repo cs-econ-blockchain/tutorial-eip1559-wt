@@ -92,6 +92,9 @@ Tianyu Wu is a senior student at Duke Kunshan University, majoring in Applied Ma
 - [Empirical_Analysis_of_EIP_1559_Transaction_Fees, User_Experience, and_Consensus_Security](https://arxiv.org/abs/2201.05574)
 - [DETER: Denial of Ethereum Txpool sERvices](https://cve.report/CVE-2022-23327/32c14097.pdf)
 ### Literature
-Bibliography Li, Kai, Yibo Wang, and Yuzhe Tang. 2021. “DETER: Denial of Ethereum Txpool SERvices.” Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, November. https://doi.org/10.1145/3460120.3485369.
+
+Bibliography 
+
+Li, Kai, Yibo Wang, and Yuzhe Tang. 2021. “DETER: Denial of Ethereum Txpool SERvices.” Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, November. https://doi.org/10.1145/3460120.3485369.
 
 Liu, Yulin, Yuxuan Lu, Kartik Nayak, Fan Zhang, Luyao Zhang, and Yinhong Zhao. 2022. “Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security.” ArXiv:2201.05574 [Cs, Econ, Q-Fin], January. https://arxiv.org/abs/2201.05574.
