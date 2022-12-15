@@ -21,7 +21,7 @@ In this article, we provide a tutorial for replicating the waiting time results 
 
 |                    |**Mempool Data**|**Blockchain Data**|
 |--------------------|:--------------------:|:--------------------:|
-| **Data Source**    | Observed by nodes set on the blockchain|[Kaggle - Ethereum Blockchain](https://www.kaggle.com/datasets/bigquery/ethereum-blockchain)|
+| **Data Source**    | Observed by nodes set on the blockchain stored on [GitHub](https://github.com/SciEcon/EIP1559)|[Kaggle - Ethereum Blockchain](https://www.kaggle.com/datasets/bigquery/ethereum-blockchain)|
 | **Queried Data**   |[Kaggle - Mempool Data (With Filtered Version)](https://www.kaggle.com/datasets/sunshineluyaozhang/eip1559-waiting-time)|[Kaggle - Queried Blockchain Data](https://www.kaggle.com/datasets/henrytyw/queried-blockchain-data)|
 | **Processed Data** |[Kaggle - Processed Data]()|[Kaggle - Processed Data]()|
 
