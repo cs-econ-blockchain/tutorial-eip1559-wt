@@ -37,8 +37,9 @@ In this article, we provide a tutorial for replicating the waiting time results 
 
 ## Spotlight
 - Figures
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig1.png" width="1000">
 
-Figure 1: Workflow of mempool data integration and cleaning [Whimsical](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
+Figure 1: Workflow of mempool data integration and cleaning [[Whimsical]](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
 
 Figure 2: Derivation of waiting time on transaction level [Whimsical](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
 
