@@ -36,26 +36,43 @@ In this article, we provide a tutorial for replicating the waiting time results 
 - [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
 
 ## Spotlight
-- Figures
-<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig1.png" width="1000">
+### Methodology
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig1.png" width="800">
 
 Figure 1: Workflow of mempool data integration and cleaning [[Whimsical]](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
 
-Figure 2: Derivation of waiting time on transaction level [Whimsical](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig2.png" width="800">
 
-Figure 3: Pipeline of sample data import [Whimsical](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
+Figure 2: Derivation of waiting time on transaction level [[Whimsical]](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
 
-Figure 4: Waiting Time Distribution Plot and Boxplot (Pre-EIP and Post-EIP), by removing all negative waiting times [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig3.png" width="800">
 
-Figure 5: Waiting Time Distribution Plot and Boxplot (Pre-EIP and Post-EIP), by setting all negative waiting times to 0 [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+Figure 3: Pipeline of sample data import [[Whimsical]](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
 
-Figure 6: Median Waiting Time for Each Block (Pre-EIP and Post-EIP), Derived by Transaction Data until 08/27/2021 [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+### Results
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig4.png" width="800">
 
-Figure 7: Median Waiting Time for Each Block (Pre-EIP and Post-EIP with an extended period), Derived by Transaction Data until 10/27/2021 [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+Figure 4: Waiting Time Distribution Plot and Boxplot (Pre-EIP and Post-EIP), by removing all negative waiting times [[Analyze Data]](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
 
-Figure 8: Difference between legacy transaction and EIP-1559 transaction after London hardfork [Whimsical](https://whimsical.com/legacy-and-eip-8yeixQBNpUtrRYy5NmbH7L)
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig5.png" width="800">
 
-Figure 9: Median Waiting Time for Each Block (Pre-EIP and Post-EIP), with the tag differentiating between EIP and legacy auction, Derived by Transaction Data until 08/27/2021 [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+Figure 5: Waiting Time Distribution Plot and Boxplot (Pre-EIP and Post-EIP), by setting all negative waiting times to 0 [[Analyze Data]](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig6.png" width="800">
+
+Figure 6: Median Waiting Time for Each Block (Pre-EIP and Post-EIP), Derived by Transaction Data until 08/27/2021 [[Analyze Data]](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig7.png" width="800">
+
+Figure 7: Median Waiting Time for Each Block (Pre-EIP and Post-EIP with an extended period), Derived by Transaction Data until 10/27/2021 [[Analyze Data]](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig8.png" width="800">
+
+Figure 8: Difference between legacy transaction and EIP-1559 transaction after London hardfork [[Whimsical]](https://whimsical.com/legacy-and-eip-8yeixQBNpUtrRYy5NmbH7L)
+
+<img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/fig/fig9.png" width="800">
+
+Figure 9: Median Waiting Time for Each Block (Pre-EIP and Post-EIP), with the tag differentiating between EIP and legacy auction, Derived by Transaction Data until 08/27/2021 [[Analyze Data]](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
 
 
 ## More about the Author
