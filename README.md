@@ -50,7 +50,7 @@ In this article, we provide a tutorial for replicating the waiting time results 
 - Media appearance
 
 ## More about the Author
-![Figure](http://url/to/img.png)
+![Figure](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/Tianyu_Wu.jpg)
 Tianyu Wu is a senior student at Duke Kunshan University, majoring in Applied Mathematics and Computational Science/Math. He has been serving on many pioneering interdisciplinary projects for the great cause of research, innovation, and leadership, mentored by Prof Luyao Zhang.
 
 
