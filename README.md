@@ -5,15 +5,16 @@
 - **Disclaimer**: TBD
 - **Acknowledgments**: I would like to express my greatest gratitude to Prof Luyao Zhang, the Principal Investigator (PI) of the project “Understanding Waiting Time in Transaction Fee Mechanisms”, and Prof Fan Zhang, the Co-PI for their generous and inspiring instructions.
 
-**Project Summary**: 
+- **Project Summary**: 
 
 In this article, we provide a tutorial for replicating the waiting time results in the paper entitled [“Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security”](https://arxiv.org/abs/2201.05574). As a data descriptor, we introduce two reliable data sources related to the empirical analysis of waiting time in the transaction fee mechanism: mempool data and blockchain transaction-level data, and describe the workflow to integrate these two data sources for further analysis. Subsequently, we demonstrate the step-by-step instructions for the data importing process and create a series of visualizations to replicate, validate, and extend the results in the original paper that advances the understanding of how the EIP-1559 can affect waiting time in the transaction fee mechanism on Ethereum .
 
 ## Table of Contents
-- data
+- [data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt#data)
 - code
 - spotlight
-- More about the Author
+- more about the author
+- references
 
 
 
