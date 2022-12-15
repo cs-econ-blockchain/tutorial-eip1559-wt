@@ -84,26 +84,16 @@ Tianyu Wu is a senior student at Duke Kunshan University, majoring in Applied Ma
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- [Kaggle - Ethereum Blockchain](https://www.kaggle.com/datasets/bigquery/ethereum-blockchain)
+- [Kaggle - Mempool Data (With Filtered Version)](https://www.kaggle.com/datasets/sunshineluyaozhang/eip1559-waiting-time)
+
 ### Code Source
-- Code Source Title and URL
+- [Empirical_Analysis_of_EIP_1559_Transaction_Fees, User_Experience, and_Consensus_Security](https://github.com/SciEcon/EIP1559/tree/main/code)
+
 ### Articles
-- Article Source Title and URL
+- [Empirical_Analysis_of_EIP_1559_Transaction_Fees, User_Experience, and_Consensus_Security](https://arxiv.org/abs/2201.05574)
+- [DETER: Denial of Ethereum Txpool sERvices](https://cve.report/CVE-2022-23327/32c14097.pdf)
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+Bibliography Li, Kai, Yibo Wang, and Yuzhe Tang. 2021. “DETER: Denial of Ethereum Txpool SERvices.” Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security, November. https://doi.org/10.1145/3460120.3485369.
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
-
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
-
+Liu, Yulin, Yuxuan Lu, Kartik Nayak, Fan Zhang, Luyao Zhang, and Yinhong Zhao. 2022. “Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security.” ArXiv:2201.05574 [Cs, Econ, Q-Fin], January. https://arxiv.org/abs/2201.05574.
