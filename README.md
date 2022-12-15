@@ -10,15 +10,25 @@
 In this article, we provide a tutorial for replicating the waiting time results in the paper entitled [“Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security”](https://arxiv.org/abs/2201.05574). As a data descriptor, we introduce two reliable data sources related to the empirical analysis of waiting time in the transaction fee mechanism: mempool data and blockchain transaction-level data, and describe the workflow to integrate these two data sources for further analysis. Subsequently, we demonstrate the step-by-step instructions for the data importing process and create a series of visualizations to replicate, validate, and extend the results in the original paper that advances the understanding of how the EIP-1559 can affect waiting time in the transaction fee mechanism on Ethereum .
 
 ## Table of Contents
-- [Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt#Data)
-- Code
-- Spotlight
-- More about the Author
-- References
+- [Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt#data)
+- [Code](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt#code)
+- [Spotlight](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt#spotlight)
+- [More about the Author](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt#more-about-the-author)
+- [References](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt#references)
 
 
 
 ## Data
+<div class="table-wrapper" markdown="block">
+
+|                    |                                                    **Cryptocurrency Data**                                                   |                       **Social Media Data**                      |
+|--------------------|:----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------:|
+| **Data Source**    |                       [Alpha Vantage API](https://www.alphavantage.co/documentation/#digital-currency)                       | [Snscrape API](https://github.com/JustAnotherArchivist/snscrape) |
+| **Queried Data**   |   [Aave_Queried](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/data/Queried_Data)   |                                 -                                |
+| **Processed Data** | [Aave_Processed](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/tree/main/data/Processed_Data) |                                 -                                |
+
+</div>
+
 - Data Source:
 - Queried Data
 - Processed Data
@@ -38,6 +48,11 @@ In this article, we provide a tutorial for replicating the waiting time results 
 - Presentations
 - Review articles
 - Media appearance
+
+## More about the Author
+![Figure](http://url/to/img.png)
+Tianyu Wu is a senior student at Duke Kunshan University, majoring in Applied Mathematics and Computational Science/Math. He has been serving on many pioneering interdisciplinary projects for the great cause of research, innovation, and leadership, mentored by Prof Luyao Zhang.
+
 
 ## References
 
