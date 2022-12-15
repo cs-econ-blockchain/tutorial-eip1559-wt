@@ -37,11 +37,25 @@ In this article, we provide a tutorial for replicating the waiting time results 
 
 ## Spotlight
 - Figures
-- Posters
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+
+Figure 1: Workflow of mempool data integration and cleaning [Whimsical](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
+
+Figure 2: Derivation of waiting time on transaction level [Whimsical](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
+
+Figure 3: Pipeline of sample data import [Whimsical](https://whimsical.com/waitingtime-transaction-JuzaYc8TCWZwn3ZoMiMJy6)
+
+Figure 4: Waiting Time Distribution Plot and Boxplot (Pre-EIP and Post-EIP), by removing all negative waiting times [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+
+Figure 5: Waiting Time Distribution Plot and Boxplot (Pre-EIP and Post-EIP), by setting all negative waiting times to 0 [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+
+Figure 6: Median Waiting Time for Each Block (Pre-EIP and Post-EIP), Derived by Transaction Data until 08/27/2021 [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+
+Figure 7: Median Waiting Time for Each Block (Pre-EIP and Post-EIP with an extended period), Derived by Transaction Data until 10/27/2021 [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+
+Figure 8: Difference between legacy transaction and EIP-1559 transaction after London hardfork [Whimsical](https://whimsical.com/legacy-and-eip-8yeixQBNpUtrRYy5NmbH7L)
+
+Figure 9: Median Waiting Time for Each Block (Pre-EIP and Post-EIP), with the tag differentiating between EIP and legacy auction, Derived by Transaction Data until 08/27/2021 [Analyze Data](https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/code/data_analysis_colab.ipynb)
+
 
 ## More about the Author
 <img src="https://github.com/cs-econ-blockchain/tutorial-eip1559-wt/blob/main/Tianyu_Wu.jpg" width="100">
